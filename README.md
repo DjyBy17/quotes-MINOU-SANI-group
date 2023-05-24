@@ -8,7 +8,7 @@ A python program that generates programming quotes and jokes.
 - `initiator`: FOO Bar Group 
 - `contributor-1`: BAR Foo Group 
 - `contributor-2`: WIZZ Bang 
-- `contributor-3`: TOTO Titi Group 
+- `contributor-3`: MINOU SANI Giorgio Group 
 
 ## Fork urls
 - `contributor-1`: [quotes-bar-b](url-1)
